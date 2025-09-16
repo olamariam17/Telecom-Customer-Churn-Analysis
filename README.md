@@ -33,6 +33,18 @@ To analyze telecom customer data to identify churn patterns, understand customer
 The telecom customer dataset was imported directly into Power BI for comprehensive analysis and visualization. Data validation and initial exploration were conducted to understand the structure and quality of the dataset before proceeding with analysis.
 
 ## DATA CLEANING & TRANSFORMATION
+**Data Quality Assessment:**
+The dataset was relatively clean but required specific attention to handle missing values appropriately.
+**Issues Identified:**
+* Empty cells in dependent columns: Some columns had blank values due to logical dependencies on other columns. For instance, if Internet Service = "No" (customer did not subscribe to internet), then Internet Type was blank for that row.
+* Null values in numeric columns: Fields like Avg Monthly Long Distance Charges contained null values because customers had not subscribed to home phone service.
+**Cleaning Steps Performed:**
+* Replaced null values in numeric columns with 0 - This accurately represented customers who didn't use specific services
+* Replaced null text values with "Unknown" - Applied only to columns not dependent on other service subscriptions
+* Maintained logical data relationships - Preserved the dependency structure between service subscription and related fields
+**Data Structure:**
+* No changes were made to column names as they were already in readable and clear format
+* Preserved original data dictionary alignment for consistency and accuracy
 
 ## DATA ANALYSIS
 Some key metrics analyzed
