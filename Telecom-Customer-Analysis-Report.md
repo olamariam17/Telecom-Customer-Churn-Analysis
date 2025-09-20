@@ -74,36 +74,36 @@ Some key metrics analyzed
 **Chart**: Vertical bar chart showing customer counts across different promotional offers.
 
 **Key Insights**:
-* Majority of customers (1,677) have not taken any promotional offers, indicating potential for targeted marketing campaigns
-* Offer E shows the highest uptake among promotional offers, suggesting this package resonates well with customers
-* Low uptake on other offers (A, B, C, D) suggests need for offer restructuring or better marketing
+* Majority of customers (3,877) have not taken any promotional offers, indicating potential for targeted marketing campaigns
+* Offer B shows the highest uptake among promotional offers, closely followed by offer B suggesting this package resonates well with customers
+* Low uptake on other offers (A, C, D) suggests need for offer restructuring or better marketing
 
 **Contract Types Distribution**
 
 **Chart**: Vertical bar chart showing customer counts across different promotional offers
 
 **Key Insights:**
-* Month-to-month contracts dominate at 55.24%, indicating customer preference for flexibility but also higher churn risk
-* Two-year contracts represent 24.01% of customers, showing some commitment to longer terms
-* One-year contracts at 20.75% represent the smallest segment, suggesting this option may need repositioning
+* Month-to-month contracts dominate at 51.26%, indicating customer preference for flexibility but also higher churn risk
+* Two-year contracts represent 26.72% of customers, showing some commitment to longer terms
+* One-year contracts at 22.01% represent the smallest segment, suggesting this option may need repositioning
 
 **Payment Methods Distribution**
 
 **Chart**: Donut chart showing customer payment method preferences
 
 **Key Insights:**
-* Bank Withdrawal is preferred by 59.25% of customers, indicating trust in automated payments and good cash flow predictability
-* Credit Card payments at 26.17% show digital payment adoption
-* Mailed Check at 14.58% represents traditional payment preferences, potentially from older demographics
+* Bank Withdrawal is preferred by 55.5% of customers, indicating trust in automated payments and good cash flow predictability
+* Credit Card payments at 39.03% show digital payment adoption
+* Mailed Check at 5.47% represents traditional payment preferences, potentially from older demographics
 
 **Internet Service Types**
 
 **Chart**: Horizontal bar showing customer counts by internet service type
 
 **Key Insights:**
-* Fiber Optic leads significantly with 3,096 customers, demonstrating strong infrastructure investment returns
-* DSL follows with 1,862 customers, showing continued demand for traditional broadband
-* Cable with 869 customers represents the smallest segment, possibly due to infrastructure limitations
+* Fiber Optic leads significantly with 3,035 customers, demonstrating strong infrastructure investment returns
+* DSL follows with 1,652 customers, showing continued demand for traditional broadband
+* Cable with 830 customers represents the smallest segment, possibly due to infrastructure limitations
 
 **Service Add-on Adoption**
 
