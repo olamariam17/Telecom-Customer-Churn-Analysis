@@ -13,4 +13,11 @@ This project analyzes telecom customer data to understand churn patterns and ide
 * When are customers most likely to churn in their lifecycle?
 * What are the root causes driving customers to leave?
 
+## STAKEHOLDER
+* Senior management
+* Customer retention team
+* Marketing department
+* Product development team
+* Customer support managers
+
 ## RECOMMENDATIONS
