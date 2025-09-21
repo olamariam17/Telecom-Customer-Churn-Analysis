@@ -21,3 +21,24 @@ This project analyzes telecom customer data to understand churn patterns and ide
 * Customer support managers
 
 ## RECOMMENDATIONS
+* Senior Management
+Invest in Early-Stage Experience Programs
+Prioritize Contract and Offer Strategy
+* Customer Retention Team
+Launch a Targeted Retention Campaign for High-Risk Segments
+Build a Customer Referral & Loyalty Program
+* Marketing Department
+Redesign and Promote High-Impact Offers
+Promote Differentiation vs. Competitors
+* Product Development Team
+Simplify and Personalize Service for Seniors
+Enhance Value of Underperforming Services
+* Customer Support Managers
+Proactive Support During the First 90 Days
+Service Recovery & Feedback Loop
+
+  
+
+
+
+  
