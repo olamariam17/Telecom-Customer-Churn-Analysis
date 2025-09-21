@@ -20,6 +20,10 @@ This project analyzes telecom customer data to understand churn patterns and ide
 * Product development team
 * Customer support managers
 
+## INSIGHTS
+
+https://app.powerbi.com/view?r=eyJrIjoiZTFkOTI1OTctZDE0Mi00MDU2LWJkNzYtODZkZWM5MzY5ZTk2IiwidCI6ImQyOTY0YmE2LTZmYmYtNDIwMy05MjYwLWY5MGJkYTQ2NDlmMSJ9&pageName=294b478ea98e49dcf5ee
+
 ## RECOMMENDATIONS
 * **Senior Management**
 
